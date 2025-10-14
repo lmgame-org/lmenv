@@ -1,5 +1,4 @@
-"""Local Sokoban environment implementation for the NeMo Gym server.
-
+"""
 This module adapts the environment used in the GRL repository while keeping all
 runtime dependencies inside the Gym project. It relies on ``gym_sokoban`` for
 core Sokoban mechanics and provides deterministic room generation utilities

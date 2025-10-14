@@ -1,5 +1,4 @@
-"""Sokoban level generation utilities.
-
+"""
 This module is adapted from the ``gym_sokoban`` project and GRL's fork of the
 same utilities. It produces solvable single-box Sokoban rooms suitable for
 text-based rendering.
