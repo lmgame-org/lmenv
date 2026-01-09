@@ -30,6 +30,14 @@ The classic falling-block puzzle game.
 - **State Representation**: Text-based board representation
 
 
+## Integration with GRL
+
+These environments are designed to work with the [GRL framework](https://github.com/lmgame-org/GRL). 
+
+## Integration with NeMo Gym
+
+These environments are in the process of being integrated into [NVIDIA NeMo Gym](https://github.com/NVIDIA-NeMo/Gym) as resource server environments for RL training. 
+
 ## Citation
 
 If you use `lmenv` in your research, please cite:
